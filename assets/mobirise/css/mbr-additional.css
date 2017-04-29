@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -490,6 +491,10 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#menu-0 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
 #header1-1 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
@@ -504,6 +509,7 @@ h6,
 #social-buttons3-16 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
+
 
 
 
@@ -577,6 +583,10 @@ h6,
 #menu-4 .close-icon::after {
   background-color: #ffffff;
 }
+#menu-4 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
 #form1-u .form-control-label {
   color: #efefef;
 }
@@ -600,6 +610,7 @@ h6,
 #social-buttons3-19 .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
+
 
 
 
@@ -675,6 +686,10 @@ h6,
 #menu-6 .close-icon::after {
   background-color: #ffffff;
 }
+#menu-6 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
+}
 #msg-box8-k .mbr-section-title,
 #msg-box8-k p {
   color: #fff;
@@ -703,6 +718,7 @@ h6,
 #social-buttons4-1b .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
+
 
 
 
@@ -798,6 +814,10 @@ h6,
 #menu-2 .close-icon::before,
 #menu-2 .close-icon::after {
   background-color: #ffffff;
+}
+#menu-2 .btn {
+  font-family: 'Oswald', sans-serif;
+  font-size: 13px;
 }
 #social-buttons4-1a .mbr-section-title,
 #social-buttons4-1a .btn-social {

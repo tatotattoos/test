@@ -95,6 +95,11 @@
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "13px"
             }
           },
           "_name": "menu",
@@ -285,6 +290,11 @@
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "13px"
             }
           },
           "_name": "menu",
@@ -538,6 +548,11 @@
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "13px"
             }
           },
           "_name": "menu",
@@ -845,6 +860,11 @@
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "13px"
             }
           },
           "_name": "menu",
