@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -436,6 +437,7 @@ h6,
 #menu-0 .link,
 #menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-0 .link {
   font-size: 0.75rem;
@@ -514,6 +516,7 @@ h6,
 
 
 
+
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -528,6 +531,7 @@ h6,
 #menu-4 .link,
 #menu-4 .dropdown-item {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-4 .link {
   font-size: 0.75rem;
@@ -616,6 +620,7 @@ h6,
 
 
 
+
 #msg-box8-15 .mbr-section-title,
 #msg-box8-15 p {
   color: #fff;
@@ -652,6 +657,7 @@ h6,
 #menu-2 .link,
 #menu-2 .dropdown-item {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-2 .link {
   font-size: 0.75rem;
@@ -725,6 +731,7 @@ h6,
 
 
 
+
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -739,6 +746,7 @@ h6,
 #menu-6 .link,
 #menu-6 .dropdown-item {
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-6 .link {
   font-size: 0.75rem;
