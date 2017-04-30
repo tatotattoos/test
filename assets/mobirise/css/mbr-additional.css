@@ -517,6 +517,8 @@ h6,
 
 
 
+
+
 #menu-4 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -603,9 +605,11 @@ h6,
 }
 #contacts2-18 P {
   text-align: center;
+  font-family: 'Lora', serif;
 }
 #contacts2-18 STRONG {
   font-size: 18px;
+  font-family: 'Oswald', sans-serif;
 }
 #social-buttons3-19 .mbr-section-title,
 #social-buttons3-19 .btn-social {

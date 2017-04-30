@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "portfolio.html",
+    "currentPage": "contact.html",
     "name": "Jinks Tattoos",
     "theme": {
       "name": "mobirise3",
@@ -433,10 +433,14 @@
           "_name": "contacts2",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             "STRONG": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "contacts2-18",
@@ -457,7 +461,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street&nbsp;<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>\n1234 Street&nbsp;<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br><br>",
           "text2": ""
         },
         {
